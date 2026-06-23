@@ -60,7 +60,7 @@ If you are interested in collaboration or have any questions, feel free to reach
     <div class="timeline-date">March 2026 - </div>
     <div class="timeline-content">
       <h3>Applied AI Engineer</h3>
-      <h4><a href="https://digitalpower.huawei.com/resource/public/campus/en/songshanlake.html" target="_blank">Mistral AI</a></h4>
+      <h4><a href="https://mistral.ai/" target="_blank">Mistral AI</a></h4>
       <div class="tech-tags">
         <span>LLMs</span>
       </div>
