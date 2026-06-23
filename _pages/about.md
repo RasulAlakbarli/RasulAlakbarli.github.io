@@ -57,6 +57,16 @@ If you are interested in collaboration or have any questions, feel free to reach
 <h2 class="cv-section-title">Experience</h2>
 <div class="timeline">
   <div class="timeline-item">
+    <div class="timeline-date">March 2026 - </div>
+    <div class="timeline-content">
+      <h3>Applied AI Engineer</h3>
+      <h4><a href="https://digitalpower.huawei.com/resource/public/campus/en/songshanlake.html" target="_blank">Mistral AI</a></h4>
+      <div class="tech-tags">
+        <span>LLMs</span>
+      </div>
+    </div>
+  </div>
+  <div class="timeline-item">
     <div class="timeline-date">Jun 2025 - Sep 2025</div>
     <div class="timeline-content">
       <h3>ML Engineer</h3>
